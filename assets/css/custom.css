@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@100..900&display=swap');
+
+.h2-txt{
+    font-family: "Noto Sans Lao", sans-serif;
+}
+
+.p-txt{
+    font-family: "Noto Sans Lao", sans-serif;
+}
+.box-portfolio{
+    border-radius: 15px;
+}
+.box-portfolio-vdo{
+    border-radius: 15px;
+}
+.c-brand{
+    width: 100%;
+    height: 100%;
+}
